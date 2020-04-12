@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    z-index: 2 !important; 
+}
+
+.cardO {
+    border: none !important;
+}
